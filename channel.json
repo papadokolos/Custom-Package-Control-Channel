@@ -1,0 +1,8 @@
+{
+    "schema_version": "3.0.0",
+
+    "repositories":
+    [
+        "https://raw.githubusercontent.com/papadokolos/Custom-Package-Control-Repository/master/repository.json"
+    ]
+}
